@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TAXI
+comment1.params=kfz
+comment1.target=TAXI(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ nenneInfo()
+numComments=3

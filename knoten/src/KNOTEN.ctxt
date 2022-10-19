@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=KNOTEN
+comment1.params=inhaltNeu
+comment1.target=KNOTEN(DATENELEMENT)
+comment2.params=
+comment2.target=KNOTEN\ nenneNachfolger()
+comment3.params=k
+comment3.target=void\ setzeNachfolger(KNOTEN)
+comment4.params=
+comment4.target=DATENELEMENT\ nenneInhalt()
+comment5.params=i
+comment5.target=void\ setzeInhalt(DATENELEMENT)
+numComments=6

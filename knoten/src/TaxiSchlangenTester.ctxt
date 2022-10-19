@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TaxiSchlangenTester
+comment0.text=\r\n\ Klasse\ Taxi_Schlangen_TESTER.\r\n\ \r\n\ @author\ \ \ \ \ \ mike\ ganshorn\r\n\ @version\ \ \ \ \ 2014-09-14\r\n
+comment1.params=
+comment1.target=TaxiSchlangenTester()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Taxi_Schlangen_TESTER\r\n
+comment2.params=code
+comment2.target=void\ tasteReagieren(int)
+comment3.params=t\ kfz\ stelle
+comment3.target=void\ vorfahren(TAXI,\ TEXT,\ int)
+numComments=4

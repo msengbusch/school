@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WartelistenTester
+comment1.params=
+comment1.target=WartelistenTester()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Patient_Wartelisten_TESTER\r\n
+comment2.params=code
+comment2.target=void\ tasteReagieren(int)
+comment3.params=p\ name\ stelle
+comment3.target=void\ vorgehen(PATIENT,\ TEXT,\ int)
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SCHLANGE
+comment1.params=laenge
+comment1.target=SCHLANGE(int)
+comment2.params=t
+comment2.target=boolean\ hintenEinreihen(DATENELEMENT)
+comment3.params=
+comment3.target=DATENELEMENT\ vorneEntnehmen()
+comment4.params=
+comment4.target=boolean\ istLeer()
+comment5.params=
+comment5.target=boolean\ istVoll()
+comment6.params=
+comment6.target=int\ nenneAnzahlAktuell()
+comment7.params=
+comment7.target=void\ alleAusgeben()
+numComments=8

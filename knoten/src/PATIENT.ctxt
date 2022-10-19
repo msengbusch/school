@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PATIENT
+comment1.params=nNeu\ gNeu\ lNeu\ aNeu
+comment1.target=PATIENT(java.lang.String,\ char,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ nenneInfo()
+numComments=3
